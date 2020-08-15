@@ -1,7 +1,8 @@
-package com.pracdev.emanager.utils;
+package com.pracdev.emanager.handlers;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.pracdev.emanager.utils.UserProfile;
 import org.springframework.util.ResourceUtils;
 
 import java.io.File;
